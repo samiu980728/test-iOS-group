@@ -1,4 +1,4 @@
-//
+///Users/wangyizhuo/Desktop/test1
 //  ViewController.swift
 //  test1
 //
@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //jkw
         // Do any additional setup after loading the view, typically from a nib.
 //        asdsad
     }
