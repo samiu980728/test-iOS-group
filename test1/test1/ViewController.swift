@@ -15,7 +15,6 @@ class ViewController: UIViewController {
         //jkw
         
         
-        ///kkk
         // Do any additional setup after loading the view, typically from a nib.
 //        asdsad
     }
